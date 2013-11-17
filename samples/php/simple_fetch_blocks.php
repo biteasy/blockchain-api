@@ -6,7 +6,7 @@
  *
  *  Copyright (c) 2013-2014 Biteasy, LTD
  *
- *	LICENSE
+ *  LICENSE
  *
  *  Licensed under the Apache License, Version 2.0 (the "License");
  *  you may not use this file except in compliance with the License.
