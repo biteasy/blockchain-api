@@ -1,4 +1,4 @@
-![BitEasy Logo](https://www.biteasy.com/assets/logos/logo.png)
+![BitEasy Logo](https://www.biteasy.com/assets/logos/logo_small.png)
 
 # Introduction
 
@@ -15,7 +15,7 @@ Please refer to the comments of each code sample source file for details about i
 This is all you need to work with the API:
 
 * [API PDF](https://www.biteasy.com/docs/biteasy_blockchain_api_v1.pdf)
-* [Sandbox](https://sandbox.biteasy.com)
+* [Sandbox](https://www.biteasy.com/developers/sandbox)
 
 # License
 
