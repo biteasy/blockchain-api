@@ -6,7 +6,7 @@ The ***blockchain-api*** repository contains code samples which will help you to
 
 # Samples
 
-In the ***samples*** folder you will find various code samples implemented in different languages. Most of them have no or minimum requirements in order to run and they should all work without the need of an API key.
+In the ***samples*** folder you will find various code samples implemented in different languages. Most of them have none or minimum requirements in order to run and they should all work without the need of an API key.
 
 Please refer to the comments of each code sample source file for details about it's functionality.
 
