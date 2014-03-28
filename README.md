@@ -2,7 +2,7 @@
 
 # Introduction
 
-The ***blockchain-api*** repository contains code samples which will help you to get started with the [Biteasy](https://www.biteasy.com) Blockchain Rest API.
+The ***blockchain-api*** repository contains code samples which will help you to get started with the [Biteasy](https://www.biteasy.com) Blockchain REST API.
 
 # Samples
 
@@ -14,7 +14,7 @@ Please refer to the comments of each code sample source file for details about i
 
 This is all you need to work with the API:
 
-* [API PDF](https://www.biteasy.com/docs/biteasy_blockchain_api_v1.pdf)
+* [Documentation](https://support.biteasy.com/kb)
 * [Sandbox](https://www.biteasy.com/developers/sandbox)
 
 # License
